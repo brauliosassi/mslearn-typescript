@@ -23,7 +23,7 @@ let sortAscending2 = (a, b) => {
     }
     else {
         return 0;
-    }
+    }   
 };
 // This function builds an array of unique random numbers containing the number of items based on the number passed to it.
 // The sortOrder parameter determines whether to sort the array in ascending or decending order.
