@@ -15,16 +15,18 @@ Tabela de conteúdos
   - [**Módulo 03 - Implementar interfaces**](#módulo-03---implementar-interfaces)
     - [- Conteúdo](#--conteúdo-1)
     - [Resumo](#resumo-2)
-  - [\*\*Módulo 04 -**Desenvolver funções de tipo**](#módulo-04--desenvolver-funções-de-tipo)
+  - [Módulo 04 - Desenvolver funções de tipo](#módulo-04---desenvolver-funções-de-tipo)
     - [- Conteúdo](#--conteúdo-2)
     - [Resumo](#resumo-3)
-  - [\*\*Módulo 05 -**Declarar classes e criar instâncias**](#módulo-05--declarar-classes-e-criar-instâncias)
+  - [Módulo 05 - Declarar classes e criar instâncias](#módulo-05---declarar-classes-e-criar-instâncias)
     - [- Conteúdo](#--conteúdo-3)
     - [Resumo](#resumo-4)
   - [**Módulo 06 - Definir genéricos**](#módulo-06---definir-genéricos)
     - [Resumo](#resumo-5)
   - [**Módulo 07 - Acessar bibliotecas externas**](#módulo-07---acessar-bibliotecas-externas)
-  - [**Módulo 06 - Organizar códigos usando namespaces**](#módulo-06---organizar-códigos-usando-namespaces)
+    - [Resumo](#resumo-6)
+  - [Módulo 08 - Organizar códigos usando namespaces](#módulo-08---organizar-códigos-usando-namespaces)
+    - [Resumo](#resumo-7)
 
 <!--te-->
 
@@ -80,7 +82,7 @@ Tabela de conteúdos
     -Declarar variáveis usando tipos de união e interseção.    
 ---
 
-## **Módulo 04 -**Desenvolver funções de tipo** 
+## Módulo 04 - Desenvolver funções de tipo
 
 ### - Conteúdo
     1.Introdução
@@ -95,7 +97,7 @@ Tabela de conteúdos
     -Declarar variáveis usando tipos de objeto.
     -Declarar variáveis usando tipos de união e interseção.    
 ---
-## **Módulo 05 -**Declarar classes e criar instâncias** 
+## Módulo 05 - Declarar classes e criar instâncias 
 
 ### - Conteúdo
     1.Introdução
@@ -137,5 +139,27 @@ Tabela de conteúdos
 ---
 ## **Módulo 07 - Acessar bibliotecas externas**
 
-## **Módulo 06 - Organizar códigos usando namespaces** 
+    1.Introdução
+    2.Organizar código com módulos
+    3.Exercício - exportar e importar  componentes de módulo
+    4.Exercício - compilar módulos
+    5.Exercício - acessar bibliotecas de tipos externas
 
+### Resumo
+    -Organizar o código usando módulos
+    -Importar uma biblioteca de tipos externa   
+
+---
+## Módulo 08 - Organizar códigos usando namespaces 
+
+    1.Introdução 
+    2.Introdução aos namespaces TypeScript
+    3.Exercício - Organizar códigos usando namespaces de arquivo único
+    4.Organizar códigos usando namespaces de vários arquivos
+    5.Consideração sobre design
+
+  ### Resumo
+    -Explicar a finalidade dos namespaces
+    -Implementar namespaecs de arquivo único
+    -Implementar namespaces de vários arquivos
+    -Explicar as considerações de design para usar namespaces e módulos
