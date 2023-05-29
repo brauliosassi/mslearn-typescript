@@ -79,3 +79,4 @@ var testArray1 = new BuildArray(12, 'ascending');
 var testArray2 = new BuildArray(8, 'descending');
 console.log(testArray1);
 console.log(testArray2);
+                
